@@ -1,8 +1,7 @@
 # 🥷 Desafio Cadastro de Ninjas 🥷
 
 Bem-vindo ao **Desafio Cadastro de Ninjas**! 🎌⚔️  
-Este é um programa simples em **Java** que permite **cadastrar, listar e gerenciar ninjas** em um dojo virtual.  
-Ideal para quem está começando na programação e quer praticar **arrays, loops e estruturas de controle**! 🚀  
+Este é um programa simples em **Java** que permite **cadastrar, listar e gerenciar ninjas** em um dojo virtual.   
 
 ---
 
