@@ -50,7 +50,7 @@ public class DesafioCadastroDeNinjas {
 
                 case 3:
                     System.out.println("Saindo do programa...");
-                    return; // Encerra o programa
+                    return; // Encerra o programa.
 
                 default:
                     System.out.println("Opção inválida! Tente novamente.");
