@@ -7,7 +7,7 @@ Este é um programa simples em **Java** que permite **cadastrar, listar e gerenc
 
 ## 📜 Funcionalidades  
 
-✅ **Cadastrar um ninja** (máximo de 9 ninjas no dojo 🏯).  
+✅ **Cadastrar um ninja** (máximo de 10 ninjas no dojo 🏯).  
 ✅ **Listar os ninjas cadastrados** para ver quem já faz parte do clã.  
 ✅ **Sair do programa** para continuar seu treinamento secreto.  
 ✅ **Controle de limite**: se o dojo estiver cheio, o programa avisa! 😱  
